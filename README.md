@@ -3,3 +3,4 @@ The objective of this analysis is to study the variables that may affect the ove
 
 R was used to explore the relationships in one variable to multiple variables in this analysis. 
 
+![screenshot - multivarible graph](https://user-images.githubusercontent.com/38387040/39089757-5da81faa-459c-11e8-9f6f-fccbea6dc12d.png)
