@@ -13,3 +13,8 @@ R was used to explore the relationships in one variable to multiple variables in
 
 OS X R Download Link: https://cran.r-project.org/bin/macosx/
 
+# Meta
+
+Grace Cho - Circleoffifths.7@gmail.com
+
+https://github.com/GraceCho11
