@@ -9,3 +9,9 @@ R was used to explore the relationships between different variables in this anal
 # Screenshot of one of the multivariate plots 
 
 ![screenshot - multivarible graph](https://user-images.githubusercontent.com/38387040/39500712-8037c684-4d84-11e8-875f-5d12c2305fd1.png)
+
+The complete analysis can be found in the html file.
+
+# Installation
+OS X R Download Link: https://cran.r-project.org/bin/macosx/
+
